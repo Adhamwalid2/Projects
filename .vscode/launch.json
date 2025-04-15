@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "packageBank.Main",
+            "projectName": "Object- oriented_f2b2bd45"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "packageAutomat.Main",
+            "projectName": "Object- oriented_f2b2bd45"
+        },
+        {
+            "type": "java",
+            "name": "MainBank",
+            "request": "launch",
+            "mainClass": "MainBank",
+            "projectName": "blatt3_4b703e2b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "blatt3_4b703e2b"
+        },
+        {
+            "type": "java",
+            "name": "MainB",
+            "request": "launch",
+            "mainClass": "MainB",
+            "projectName": "blatt3_4b703e2b"
+        },
+        {
+            "type": "java",
+            "name": "Attach",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": "<debug port of the debuggee>"
+        }
+    ]
+}
